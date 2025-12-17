@@ -16,6 +16,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Faijanan&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5346010" style='border:none;'></
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
